@@ -1,0 +1,43 @@
+[33mcommit 5c770ffc55550db23e8b8adac5e956044e5409b6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m
+Author: prakhardg <prakhar4msoffice@gmail.com>
+Date:   Thu May 23 13:49:43 2019 +0530
+
+    branch2
+
+[33mcommit 2b5960b19460b2c7f62200778cba6aa2893cddb2[m[33m ([m[1;32mmybrach[m[33m)[m
+Author: prakhardg <prakhar4msoffice@gmail.com>
+Date:   Thu May 23 13:39:52 2019 +0530
+
+    create branch mybranch
+
+[33mcommit 769a7f556b809e633c8db256878c991b9788509f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: prakhardg <prakhar4msoffice@gmail.com>
+Date:   Wed May 22 09:10:05 2019 +0530
+
+    Revert "revert command test"
+    
+    This reverts commit 060a55b471f2cc6d792ce469d61ee7c27aa00cd6.
+
+[33mcommit 060a55b471f2cc6d792ce469d61ee7c27aa00cd6[m
+Author: prakhardg <prakhar4msoffice@gmail.com>
+Date:   Wed May 22 09:09:32 2019 +0530
+
+    revert command test
+
+[33mcommit c14610247e336ef30a19e799c0a50a9e39fdb444[m
+Author: prakhardg <prakhar4msoffice@gmail.com>
+Date:   Wed May 22 08:49:30 2019 +0530
+
+    changes made
+
+[33mcommit f3bd0a8198a4f34eaac03693a71a585c2e1def86[m
+Author: prakhardg <prakhar4msoffice@gmail.com>
+Date:   Wed May 22 08:35:14 2019 +0530
+
+    file added
+
+[33mcommit 82784f692aeb65fdd49eada6ef4f5a423d6f0598[m
+Author: Prakhar Dev Gupta <39290396+prakhardg@users.noreply.github.com>
+Date:   Wed May 22 08:01:21 2019 +0530
+
+    Initial commit

@@ -1,0 +1,100 @@
+What is git?
+
+Git is a version control system. This is essentially a cloud based backup mechanism as well as work management system carried out in a team.
+Allows multiple people working on the same project, allows easy tracking of changes made. Also backs up work to prevent losses due to unforseen failure.
+
+
+Git status?
+
+Recent changes on the current branch. State of working directory and the staging area.
+
+
+
+What is git add and git commit?
+
+It adds the files to the staging area, the staging area is later used to commit the files.
+The git commit command adds your changes to the local version control database. We need to push these changes to the remote server.
+
+
+
+What is git origin?
+
+In Git, "origin" is a shorthand name for the remote repository that a project was originally cloned from. More precisely, 
+it is used instead of that original repository's URL - and thereby makes referencing much easier.
+
+
+
+
+Undo changes before commit?
+
+git checkout -- filename
+
+
+
+Revert the committed changes?
+
+git revert <commit id> (obtained from git log command). Using git commit -m will require explicit committing of undone changes.
+
+
+
+Reset to previous state?
+
+git reset --hard <commit id where we need to go>
+
+
+
+
+Why branches needed in git? How to do?
+
+To keep original file intact and we can experiment with the project. Allows parallel code development. 
+Create and switch to branch: git checkout -b <brach name>
+
+
+
+List all branches?
+
+git branch
+
+
+
+Switch to a branch?
+
+git checkout <brach name>
+
+
+Merge branches?
+
+First go to the base branch. Then git merge <brach name>
+
+
+Delete branch?
+
+git branch -d <brach name>
+
+
+
+What is HEAD in git?
+
+Head is a reference to the most recent commit. HEAD can be used instead of commit id for the latest commit reference. 
+HEAD = Latest commit id
+HEAD~1 = Second last commit id
+HEAD~2 = Third last commit id.. and so on.
+
+
+
+What is detached head state and how GIT internally manages HEAD?
+
+When HEAD is shifted to some different commit state, then it is called the detached HEAD state. Using git checkout <commit id>,
+we can get a detached head state.
+Internally, a file named HEAD is maintained in .git folder (it is a hidden file).  
+
+
+
+What is .gitignore file?
+
+It list the type of files to ignore when pushing on the remote server. We put regex here to help git recognize the files by name.
+
+
+
+
+
