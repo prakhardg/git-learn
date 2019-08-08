@@ -4,4 +4,5 @@ this is written after first commit.
 This is written in mybranch branch, which is switched using checkout command;
 knnnkkn
 there
+i am written in master
 here is the content from branch2;
