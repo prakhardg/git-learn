@@ -9,5 +9,8 @@ lskfmlkamf;akfm
 lasmdafkmsdlfk
 lkasnflkasnf
 
+i am going to change the commit message using amend command
+this is a new line
+overthe moon
 this change is made into master accidentally, I wanted it in some/branch
 some commmit into wrong.
