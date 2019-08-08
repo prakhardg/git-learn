@@ -1,7 +1,12 @@
 this is some text.
 this is written after first commit.
 
-added few more lines from another branch
-This is written in mybranch branch, which is switched using checkout command;
+This is written in 
 i am written in master
 here is the content from branch2;
+this is anotherknjasndkjansdknaksdjnak
+lskfmlkamf;akfm
+lasmdafkmsdlfk
+lkasnflkasnf
+
+this change is made into master accidentally, I wanted it in some/branch
